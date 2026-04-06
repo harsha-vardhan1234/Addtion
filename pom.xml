@@ -25,7 +25,7 @@
         </repository>
     </distributionManagement>
 
-    <build>
+    <!--<build>
         <plugins>
             
             <plugin>
@@ -38,6 +38,6 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>
+    </build>-->
 
 </project>
