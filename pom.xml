@@ -7,8 +7,8 @@
 
    
     <groupId>com.harsha</groupId>     
-    <artifactId>Addition</artifactId>
-    <version>1.0.1</version>
+    <artifactId>Addtion</artifactId>
+    <version>1.0.3</version>
     <packaging>jar</packaging>
     <name>Addition</name>
 
